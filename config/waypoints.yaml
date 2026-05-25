@@ -1,0 +1,18 @@
+waypoints:
+  - nome: "ponto_A"
+    x: 2.0
+    y: 1.5
+    oz: 0.0
+    ow: 1.0
+
+  - nome: "ponto_B"
+    x: 5.0
+    y: 3.0
+    oz: 0.707
+    ow: 0.707
+
+  - nome: "ponto_C"
+    x: 1.0
+    y: 6.0
+    oz: 0.0
+    ow: 1.0
