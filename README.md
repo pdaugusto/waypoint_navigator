@@ -51,7 +51,7 @@ waypoint_navigator/
 ```bash
 # 1. Clone into your ROS2 workspace
 cd ~/your_ws/src
-git clone https://github.com/your-username/waypoint_navigator.git
+git clone https://github.com/pdaugusto/waypoint_navigator.git
 
 # 2. Install dependencies
 cd ~/your_ws
